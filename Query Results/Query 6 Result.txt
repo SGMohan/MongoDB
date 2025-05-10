@@ -1,0 +1,107 @@
+[
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eac"
+    },
+    "task_count": 1,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eb1"
+    },
+    "task_count": 1,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eb7"
+    },
+    "task_count": 2,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ],
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eb6"
+    },
+    "task_count": 2,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ],
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0ea9"
+    },
+    "task_count": 1,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eb4"
+    },
+    "task_count": 2,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ],
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eb2"
+    },
+    "task_count": 1,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ]
+    ]
+  },
+  {
+    "user_id": {
+      "$oid": "681e04c657409d7eaddb0eae"
+    },
+    "task_count": 1,
+    "attendance_status": "absent",
+    "submission_statuses": [
+      [
+        "not submitted"
+      ]
+    ]
+  }
+]

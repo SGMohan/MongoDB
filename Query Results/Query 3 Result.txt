@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eaf9d"
+    },
+    "company_name": "Google",
+    "schedule_date": {
+      "$date": "2020-10-18T00:00:00Z"
+    },
+    "appeared_students": {
+      "_id": {
+        "$oid": "681e04c657409d7eaddb0ea9"
+      },
+      "user_name": "John Doe",
+      "placement_status": "appeared"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eaf9d"
+    },
+    "company_name": "Google",
+    "schedule_date": {
+      "$date": "2020-10-18T00:00:00Z"
+    },
+    "appeared_students": {
+      "_id": {
+        "$oid": "681e04c657409d7eaddb0eac"
+      },
+      "user_name": "Sarah Williams",
+      "placement_status": "appeared"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eaf9e"
+    },
+    "company_name": "Amazon",
+    "schedule_date": {
+      "$date": "2020-11-06T00:00:00Z"
+    },
+    "appeared_students": {
+      "_id": {
+        "$oid": "681e04c657409d7eaddb0eaf"
+      },
+      "user_name": "Robert Wilson",
+      "placement_status": "appeared"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eaf9e"
+    },
+    "company_name": "Amazon",
+    "schedule_date": {
+      "$date": "2020-11-06T00:00:00Z"
+    },
+    "appeared_students": {
+      "_id": {
+        "$oid": "681e04c657409d7eaddb0eb2"
+      },
+      "user_name": "Jennifer Lee",
+      "placement_status": "appeared"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eafa1"
+    },
+    "company_name": "Capgemini",
+    "schedule_date": {
+      "$date": "2020-10-20T00:00:00Z"
+    },
+    "appeared_students": {
+      "_id": {
+        "$oid": "681e04c657409d7eaddb0eb6"
+      },
+      "user_name": "Sophia Garcia",
+      "placement_status": "appeared"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eafa2"
+    },
+    "company_name": "Mindtree",
+    "schedule_date": {
+      "$date": "2020-10-31T00:00:00Z"
+    },
+    "appeared_students": {
+      "_id": {
+        "$oid": "681e04c657409d7eaddb0eac"
+      },
+      "user_name": "Sarah Williams",
+      "placement_status": "appeared"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "_id": {
+      "$oid": "681e079d57409d7eaddb0eb8"
+    },
+    "mentor_name": "Mike Johnson",
+    "mentor_email": "mike.johnson@example.com",
+    "specialization": "Web Development",
+    "years_of_experience": 8,
+    "batches_handling": [
+      "Batch A",
+      "Batch B"
+    ],
+    "mentee_count": 18,
+    "is_active": true,
+    "is_high_demand": true,
+    "mentor_id": {
+      "$oid": "681e04c657409d7eaddb0eab"
+    }
+  }
+]

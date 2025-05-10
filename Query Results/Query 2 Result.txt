@@ -1,0 +1,65 @@
+[
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eaf9d"
+    },
+    "company_name": "Google",
+    "schedule_date": {
+      "$date": "2020-10-18T00:00:00Z"
+    },
+    "job_role": "SDE Intern",
+    "package": 12,
+    "location": "Bangalore",
+    "student_attended_id": [
+      {
+        "$oid": "681e04c657409d7eaddb0ea9"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eac"
+      }
+    ],
+    "selection_status": "pending"
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eafa1"
+    },
+    "company_name": "Capgemini",
+    "schedule_date": {
+      "$date": "2020-10-20T00:00:00Z"
+    },
+    "job_role": "Backend Developer",
+    "package": 4,
+    "location": "Mumbai",
+    "student_attended_id": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb4"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eb6"
+      }
+    ],
+    "selection_status": "pass"
+  },
+  {
+    "_id": {
+      "$oid": "681f098f1500e8ec562eafa2"
+    },
+    "company_name": "Mindtree",
+    "schedule_date": {
+      "$date": "2020-10-31T00:00:00Z"
+    },
+    "job_role": "Support Engineer",
+    "package": 3.8,
+    "location": "Bangalore",
+    "student_attended_id": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb7"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eac"
+      }
+    ],
+    "selection_status": "fail"
+  }
+]

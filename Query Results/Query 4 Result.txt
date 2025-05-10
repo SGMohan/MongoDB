@@ -1,0 +1,46 @@
+[
+  {
+    "user_name": "John Doe",
+    "problems_solved": 120
+  },
+  {
+    "user_name": "Sarah Williams",
+    "problems_solved": 95
+  },
+  {
+    "user_name": "Robert Wilson",
+    "problems_solved": 70
+  },
+  {
+    "user_name": "Jennifer Lee",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Alex Chan",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Priya Patel",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Sophia Garcia",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Daniel Kim",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Jane Smith",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Emily Davis",
+    "problems_solved": 0
+  },
+  {
+    "user_name": "Thomas Moore",
+    "problems_solved": 0
+  }
+]

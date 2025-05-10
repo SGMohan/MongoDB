@@ -1,0 +1,700 @@
+//topics
+[
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0ed5"
+    },
+    "name": "HTML Fundamentals",
+    "date": {
+      "$date": "2020-10-05T00:00:00Z"
+    },
+    "batch": "Batch A",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eab"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eb0"
+      }
+    ],
+    "mentor_names": [
+      "Mike Johnson",
+      "Lisa Taylor"
+    ],
+    "resources": [
+      "HTML5 Spec",
+      "MDN Docs"
+    ],
+    "duration": "3 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0ed6"
+    },
+    "name": "CSS Flexbox",
+    "date": {
+      "$date": "2020-10-07T00:00:00Z"
+    },
+    "batch": "Batch B",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb0"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eb5"
+      }
+    ],
+    "mentor_names": [
+      "Lisa Taylor",
+      "James Wilson"
+    ],
+    "resources": [
+      "Flexbox Froggy",
+      "CSS Tricks"
+    ],
+    "duration": "2.5 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0ed7"
+    },
+    "name": "JavaScript Basics",
+    "date": {
+      "$date": "2020-10-09T00:00:00Z"
+    },
+    "batch": "Batch A",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eab"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eb5"
+      }
+    ],
+    "mentor_names": [
+      "Mike Johnson",
+      "James Wilson"
+    ],
+    "resources": [
+      "Eloquent JS",
+      "JS.info"
+    ],
+    "duration": "4 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0ed8"
+    },
+    "name": "DOM Manipulation",
+    "date": {
+      "$date": "2020-10-12T00:00:00Z"
+    },
+    "batch": "Batch B",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb0"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eab"
+      }
+    ],
+    "mentor_names": [
+      "Lisa Taylor",
+      "Mike Johnson"
+    ],
+    "resources": [
+      "DOM Enlightenment"
+    ],
+    "duration": "3 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0ed9"
+    },
+    "name": "React Introduction",
+    "date": {
+      "$date": "2020-10-14T00:00:00Z"
+    },
+    "batch": "Batch A",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb5"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eab"
+      }
+    ],
+    "mentor_names": [
+      "James Wilson",
+      "Mike Johnson"
+    ],
+    "resources": [
+      "React Docs"
+    ],
+    "duration": "5 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0eda"
+    },
+    "name": "Node.js Basics",
+    "date": {
+      "$date": "2020-10-16T00:00:00Z"
+    },
+    "batch": "Batch B",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb0"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eab"
+      }
+    ],
+    "mentor_names": [
+      "Lisa Taylor",
+      "Mike Johnson"
+    ],
+    "resources": [
+      "Node.js Docs"
+    ],
+    "duration": "4 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0edb"
+    },
+    "name": "MongoDB Fundamentals",
+    "date": {
+      "$date": "2020-10-19T00:00:00Z"
+    },
+    "batch": "Batch A",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb5"
+      }
+    ],
+    "mentor_names": [
+      "James Wilson"
+    ],
+    "resources": [
+      "MongoDB University"
+    ],
+    "duration": "3.5 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0edc"
+    },
+    "name": "REST APIs",
+    "date": {
+      "$date": "2020-10-21T00:00:00Z"
+    },
+    "batch": "Batch B",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb0"
+      },
+      {
+        "$oid": "681e04c657409d7eaddb0eb5"
+      }
+    ],
+    "mentor_names": [
+      "Lisa Taylor",
+      "James Wilson"
+    ],
+    "resources": [
+      "RESTful Web APIs"
+    ],
+    "duration": "4 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0edd"
+    },
+    "name": "Authentication",
+    "date": {
+      "$date": "2020-10-23T00:00:00Z"
+    },
+    "batch": "Batch A",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb5"
+      }
+    ],
+    "mentor_names": [
+      "James Wilson"
+    ],
+    "resources": [
+      "JWT Handbook"
+    ],
+    "duration": "3 hours"
+  },
+  {
+    "_id": {
+      "$oid": "681e26f657409d7eaddb0ede"
+    },
+    "name": "Deployment Strategies",
+    "date": {
+      "$date": "2020-10-26T00:00:00Z"
+    },
+    "batch": "Batch B",
+    "mentor_ids": [
+      {
+        "$oid": "681e04c657409d7eaddb0eb0"
+      }
+    ],
+    "mentor_names": [
+      "Lisa Taylor"
+    ],
+    "resources": [
+      "AWS Docs",
+      "Heroku Docs"
+    ],
+    "duration": "3 hours"
+  }
+]
+
+
+//tasks
+[
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf95"
+    },
+    "task_name": [
+      "HTML Portfolio Page",
+      "CSS Landing Page",
+      "JavaScript Calculator"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0ed5"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ed6"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ed7"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-05T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-08T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0ea9"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eaa"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eac"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eae"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eaf"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb1"
+          }
+        ],
+        "user_name": [
+          "John Doe",
+          "Jane Smith",
+          "Sarah Williams",
+          "Emily Davis",
+          "Robert Wilson",
+          "Thomas Moore"
+        ],
+        "submission_date": {
+          "$date": "2020-10-07T00:00:00Z"
+        },
+        "status": "submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf96"
+    },
+    "task_name": [
+      "DOM Manipulation",
+      "React Components",
+      "Node.js API"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0ed8"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ed9"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0eda"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-12T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0eb2"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb3"
+          }
+        ],
+        "user_name": [
+          "Jennifer Lee",
+          "Alex Chan"
+        ],
+        "submission_date": {
+          "$date": "2020-10-14T00:00:00Z"
+        },
+        "status": "submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf97"
+    },
+    "task_name": [
+      "MongoDB Queries",
+      "Authentication System",
+      "Deployment"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0edb"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0edc"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0edd"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-19T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-22T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0eb4"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb6"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb7"
+          }
+        ],
+        "user_name": [
+          "Priya Patel",
+          "Sophia Garcia",
+          "Daniel Kim"
+        ],
+        "status": "not submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf98"
+    },
+    "task_name": [
+      "Advanced CSS",
+      "ES6 Features",
+      "Redux Basics"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0ede"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0edf"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ee0"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-26T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-29T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0ea9"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eac"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eaf"
+          }
+        ],
+        "user_name": [
+          "John Doe",
+          "Sarah Williams",
+          "Robert Wilson"
+        ],
+        "submission_date": {
+          "$date": "2020-10-28T00:00:00Z"
+        },
+        "status": "submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf99"
+    },
+    "task_name": [
+      "Advanced MongoDB",
+      "Restful API",
+      "Deployment Steps"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0edb"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0edc"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ede"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-12T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-16T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0eaa"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eae"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb1"
+          }
+        ],
+        "user_name": [
+          "Jane Smith",
+          "Emily Davis",
+          "Thomas Moore"
+        ],
+        "status": "not submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf9a"
+    },
+    "task_name": [
+      "Advanced MongoDb",
+      "Restful API",
+      "Deployment Steps"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0edb"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0edc"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ede"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-13T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-17T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0eb2"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb3"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb4"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb6"
+          }
+        ],
+        "user_name": [
+          "Jennifer Lee",
+          "Alex Chan",
+          "Priya Patel",
+          "Sophia Garcia"
+        ],
+        "status": "not submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf9b"
+    },
+    "task_name": [
+      "AWS Deployment",
+      "Node packages"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0ede"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0eda"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-20T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-23T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0ea9"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eac"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eaf"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eb7"
+          }
+        ],
+        "user_name": [
+          "John Doe",
+          "Sarah Williams",
+          "Robert Wilson",
+          "Daniel Kim"
+        ],
+        "status": "not submitted"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681f049e1500e8ec562eaf9c"
+    },
+    "task_name": [
+      "Advanced CSS",
+      "ES6 Features",
+      "Redux Basics"
+    ],
+    "topic_id": [
+      {
+        "$oid": "681e26f657409d7eaddb0ed6"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ed7"
+      },
+      {
+        "$oid": "681e26f657409d7eaddb0ed9"
+      }
+    ],
+    "assigned_date": {
+      "$date": "2020-10-26T00:00:00Z"
+    },
+    "due_date": {
+      "$date": "2020-10-29T00:00:00Z"
+    },
+    "batch": [
+      "Batch A",
+      "Batch B"
+    ],
+    "submissions": [
+      {
+        "user_id": [
+          {
+            "$oid": "681e04c657409d7eaddb0ea9"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eac"
+          },
+          {
+            "$oid": "681e04c657409d7eaddb0eaf"
+          }
+        ],
+        "user_name": [
+          "John Doe",
+          "Sarah Williams",
+          "Robert Wilson"
+        ],
+        "submission_date": {
+          "$date": "2020-10-28T00:00:00Z"
+        },
+        "status": "submitted"
+      }
+    ]
+  }
+]
